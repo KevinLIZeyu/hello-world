@@ -1,2 +1,2 @@
 # hello-world
-Just a repository
+This is Kevin who just starts his github journey!
